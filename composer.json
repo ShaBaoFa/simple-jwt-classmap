@@ -28,7 +28,7 @@
         "swoole/ide-helper": "^4.5"
     },
     "conflict": {
-        "96qbhy/simple-jwt": "*"
+        "96qbhy/simple-jwt": "v1.5"
     },
     "suggest": {
         "swow/swow": "Required to create swow components."
